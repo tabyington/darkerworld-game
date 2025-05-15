@@ -1,0 +1,81 @@
+Simulation System Checklist
+
+Tier 1: Foundational Physical Laws
+[ ] Gravity System
+Simulates gravitational pull based on mass and distance. Drives water flow, atmospheric layering, tectonic pressure. Essential for realism in planetary behaviors.
+[ ] Material & State System
+Defines each substance's properties: phase (solid, liquid, gas), density, heat capacity, etc. Materials transition based on temperature and pressure. Enables emergent interactions like melting, freezing, boiling.
+[ ] Chemical Reaction System
+Models how elements and compounds interact. Includes combustion, corrosion, synthesis, and metabolic processes. Fuels biological behavior and environmental changes.
+[ ] Radiation & Decay System
+Simulates radioactive decay, cosmic radiation, and time-based material breakdown. Drives mutation, environmental hazard, and material transformation. Can influence evolution or destabilize structures.
+[ ] Electromagnetism
+Governs charge, polarity, and EM interactions. Allows for magnetism-based sensing, lightning, and tech-like phenomena. Useful for advanced creature senses and environmental behaviors.
+
+Tier 2: Environment Simulation Systems
+[ ] 3D Layered World Container
+Holds a voxel or grid-based stack of materials vertically. Locations contain percentage compositions (e.g., 40% quartz, 10% ash). Supports mining, tunneling, and fluid saturation.
+[ ] Fluid Simulation
+Simulates flow of water, lava, gas, etc. Affected by gravity, pressure, and terrain. Can displace objects, change environments, and support weather.
+[ ] Atmosphere System
+Manages air layers, gas mixtures, temperature, and pressure. Filters radiation, supports combustion, and affects weather. Affects how creatures breathe and survive.
+[ ] Weather System
+Emerges from atmosphere + fluid + radiation + terrain. Includes wind, storms, temperature shifts, rain/snow, and lightning. Impacts visibility, mobility, plant growth, and creature health.
+[ ] Plate Tectonics / Geological Activity
+Driven by heat, density differences, and gravity. Simulates earthquakes, volcanic eruptions, and mountain formation. Refreshes resources and shifts environments over time.
+
+Tier 3: Life Simulation Foundations
+[ ] Elemental Composition of Life
+Lifeforms have bodies made of specific materials (carbon, silicon, dreamstuff). Affects durability, metabolism, and interaction with environment. Allows for strange biologies (glass creatures, metallic beings).
+[ ] Feeding / Consumption
+Organisms break down resources via chemical processes. What they eat affects their growth, behavior, and DNA. Enables ecological roles like decomposers or apex predators.
+[ ] Organism Virtual Machine (VM)
+Executes the DNA string as instructions�like an alien CPU. Controls behavior, growth, and mutation logic. Faulty code can crash, mutate wildly, or produce novel adaptations.
+[ ] DNA / Opcode Language
+Executable, mutating code that defines lifeform behavior and form. Think digital chromosomes laced with jump commands and random glitches. Enables evolution, death, and chaos.
+[ ] Phenotype Engine
+Translates DNA into visible, tangible form�limbs, organs, senses. Can be modular (uses base shapes) or generative (built from raw code). Enables visible evolution and structural weirdness.
+[ ] Gestation & Inheritance
+New life is formed via DNA copying and mutation, possibly from multiple parents. Gestation time can be affected by heat, food, and material availability. Parent consumption affects child traits or mutations.
+
+Tier 4: Emergence & Ecology
+[ ] Reproduction System
+Arises from DNA + VM + biological simulation. Handles when, how, and why creatures breed. Reproduction may be asexual, sexual, or something new entirely.
+[ ] Needs / Drives / Wants
+Not hardcoded�organisms develop needs through simulation pressures. Hunger, fear, rest, territory could all emerge from environment and internal states. Leads to behavior like migration or aggression.
+[ ] Evolutionary Pressure
+Natural selection based on resource scarcity, danger, and success. Mutations that survive get passed on; failures die off. Can be accelerated by cosmic or metaphysical forces.
+[ ] Corruption System
+Tracks metaphysical taint, spiritual entropy, or decay. Some environments or actions increase corruption. Can twist lifeforms, change weather, or create monsters.
+[ ] Flora & Fauna Diversity
+Emerges from material interaction, mutation, and evolution. Plants, parasites, predators, builders�each arise based on survival niches. Life will find a strange way.
+
+Tier 5: Cosmic & Metaphysical Systems
+[ ] Cosmic Events
+Supernovae, black hole rays, solar flares, etc. Can reset ecosystems, mutate populations, or bring new elements. Occur on rare global timers or random events.
+[ ] Metaphysical Elements
+Substances like dreamdust, spirit ash, void ore. Behave unpredictably or require special physics rules. Affect body, mind, and reality in ways normal matter can't.
+[ ] Relics / Relic Systems
+Objects with embedded metaphysical or anomalous powers. Born from cosmic events, deep time, or religious belief. Can be worshipped, wielded, or feared.
+[ ] Religious Belief & The Good Book
+Religions form from interpretation of world events. Each religion writes its own living "bible" based on what it perceives. User can read these to see how the world views them.
+
+Tier 6: Intelligence & Society
+[ ] Emergent Intelligence
+Simple pattern recognition and memory can grow into cognition. Leads to problem-solving, social behavior, and technology. Requires pressure, reward, and memory.
+[ ] Culture & Civilizations
+Requires communication, resource use, shared memory. Can build cities, write symbols, and shape the landscape. May war, trade, or vanish without a trace.
+[ ] Religions & Factions
+Form from interpretation of relics, events, metaphysical anomalies. Drive cooperation, conflict, dogma, and architecture. Beliefs may shape physical reality if strong enough.
+[ ] The Good Book (Auto-Sacred Texts)
+Generated from historical events, creature beliefs, and misinterpretation. Acts as a living record of divine acts (including the player�s). May contradict itself, update with time, or spawn heresies.
+
+Tier 7: User Interface & Role
+[ ] User Role: Limited God or Observer
+Decide if you meddle with subtle nudges (weather, relics) or simply watch. Can be interpreted by civilizations based on action or silence. Affects �The Good Book� narrative.
+[ ] World Viewer / 3D Renderer
+Renders terrain, creatures, events in real-time. Supports inspection of layers and object stats. Optional stylized or realistic look.
+[ ] Simulation Monitor Tools
+Lets you inspect lifeform stats, material layers, VM code, etc. Can also speed/slow time, pause simulation, or create scenarios. Think scientific console meets dark god UI.
+[ ] Dynamic Lore Interface (e.g., The Good Book)
+View faction beliefs, historical records, prophecies, and divine ratings. Adds flavor and narrative context to emergent simulation. The user�s legend is built here.
